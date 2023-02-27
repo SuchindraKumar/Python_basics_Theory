@@ -1,1 +1,1 @@
-# Python_basics_Theory Assingments
+# Python_basics_Theory Assingnments
